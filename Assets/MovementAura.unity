@@ -1479,6 +1479,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 851446171}
     m_Modifications:
+    - target: {fileID: 318493432025803521, guid: ba603d7826a9d9344a7c045f1a073390, type: 3}
+      propertyPath: _faceExpressionModifiers.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2267799048079188300, guid: ba603d7826a9d9344a7c045f1a073390, type: 3}
       propertyPath: _faceExpressions
       value: 
